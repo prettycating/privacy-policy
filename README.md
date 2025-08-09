@@ -1,1 +1,58 @@
-# privacy-policy<body class="c5 doc-content"><p class="c3"><span class="c4">&#44060;&#51064;&#51221;&#48372; &#52376;&#47532;&#48169;&#52840; / Privacy Policy &nbsp;</span></p><p class="c3"><span class="c0">&#52572;&#51333; &#50629;&#45936;&#51060;&#53944; / Last updated: 2025-08-09</span></p><p class="c1"><span class="c0"></span></p><p class="c3"><span class="c4">1. &#44060;&#50836; / Overview &nbsp;</span></p><p class="c3"><span class="c0">KR: Fairway Pro(&#51060;&#54616; &quot;&#50545;&quot;)&#45716; &#49324;&#50857;&#51088;&#51032; &#44060;&#51064;&#51221;&#48372;&#47484; &#49688;&#51665;&middot;&#51200;&#51109;&middot;&#44277;&#50976;&#54616;&#51648; &#50506;&#49845;&#45768;&#45796;. &#47784;&#46304; &#45936;&#51060;&#53552;&#45716; &#49324;&#50857;&#51088;&#51032; &#44592;&#44592;&#50640;&#47564; &#51200;&#51109;&#46104;&#47728;, &#50808;&#48512; &#49436;&#48260;&#47196; &#51204;&#49569;&#46104;&#51648; &#50506;&#49845;&#45768;&#45796;. &nbsp;</span></p><p class="c3"><span class="c0">EN: Fairway Pro (&ldquo;the App&rdquo;) does not collect, store, or share any personal information. All data remains on your device and is never transmitted to external servers.</span></p><p class="c1"><span class="c0"></span></p><p class="c3"><span class="c4">2. &#49688;&#51665;&#54616;&#45716; &#44060;&#51064;&#51221;&#48372; / Data Collection &nbsp;</span></p><p class="c3"><span class="c0">KR: &#50630;&#51020; &nbsp;</span></p><p class="c3"><span class="c0">EN: None</span></p><p class="c1"><span class="c0"></span></p><p class="c3"><span class="c4">3. &#45936;&#51060;&#53552; &#49324;&#50857; &#48143; &#48372;&#44288; / Data Usage &amp; Storage &nbsp;</span></p><p class="c3"><span class="c0">KR: &nbsp;</span></p><p class="c3"><span class="c0">- &#47784;&#46304; &#46972;&#50868;&#46300; &#44592;&#47197;, &#49444;&#51221;, PDF, &#48177;&#50629; &#54028;&#51068;&#51008; &#44592;&#44592; &#45236; &#51200;&#51109;&#49548;&#50640;&#47564; &#51200;&#51109;&#46121;&#45768;&#45796;. &nbsp;</span></p><p class="c3"><span class="c0">- &#50545;&#51008; &#49436;&#48260;&#47484; &#50868;&#50689;&#54616;&#51648; &#50506;&#51004;&#47728;, &#45936;&#51060;&#53552;&#47484; &#50896;&#44201;&#51004;&#47196; &#51204;&#49569;&middot;&#51200;&#51109;&#54616;&#51648; &#50506;&#49845;&#45768;&#45796;. &nbsp;</span></p><p class="c3"><span class="c0">- &#50545; &#49325;&#51228; &#49884; &#45936;&#51060;&#53552;&#46020; &#54632;&#44760; &#49325;&#51228;&#46121;&#45768;&#45796;. &nbsp;</span></p><p class="c1"><span class="c0"></span></p><p class="c3"><span class="c4">EN: &nbsp;</span></p><p class="c3"><span class="c0">- All round records, settings, PDFs, and backup files are stored locally on your device. &nbsp;</span></p><p class="c3"><span class="c0">- We do not operate any servers, and no data is transmitted or stored remotely. &nbsp;</span></p><p class="c3"><span class="c0">- Deleting the app also deletes all associated data.</span></p><p class="c1"><span class="c0"></span></p><p class="c3"><span class="c4">4. &#51228;3&#51088; &#44277;&#50976; &#48143; SDK / Third-Party Sharing &amp; SDKs &nbsp;</span></p><p class="c3"><span class="c0">KR: &nbsp;</span></p><p class="c3"><span class="c0">- &#51228;3&#51088;&#50640;&#44172; &#45936;&#51060;&#53552;&#47484; &#54032;&#47588;&middot;&#45824;&#50668;&middot;&#44277;&#50976;&#54616;&#51648; &#50506;&#49845;&#45768;&#45796;. &nbsp;</span></p><p class="c3"><span class="c0">- &#44305;&#44256;, &#48516;&#49437;, &#52628;&#51201; &#47785;&#51201;&#51032; &#51228;3&#51088; SDK&#47484; &#49324;&#50857;&#54616;&#51648; &#50506;&#49845;&#45768;&#45796;. &nbsp;</span></p><p class="c3"><span class="c0">EN: &nbsp;</span></p><p class="c3"><span class="c0">- We do not sell, rent, or share data with third parties. &nbsp;</span></p><p class="c3"><span class="c0">- No third-party SDKs are used for advertising, analytics, or tracking.</span></p><p class="c1"><span class="c0"></span></p><p class="c3"><span class="c4">5. &#44428;&#54620; / Permissions &nbsp;</span></p><p class="c3"><span class="c0">KR: &nbsp;</span></p><p class="c3"><span class="c0">- &#50545;&#51008; &#44305;&#48276;&#50948;&#54620; &#51200;&#51109;&#49548; &#44428;&#54620;&#51012; &#50836;&#52397;&#54616;&#51648; &#50506;&#49845;&#45768;&#45796;. &nbsp;</span></p><p class="c3"><span class="c0">- &#54028;&#51068; &#49440;&#53469;&middot;&#44277;&#50976; &#44592;&#45733;&#51008; &#50868;&#50689;&#52404;&#51228;&#51032; &#47928;&#49436; &#49440;&#53469;&#44592; &#48143; &#44277;&#50976; &#44592;&#45733;&#51012; &#49324;&#50857;&#54616;&#47728;, &#49324;&#50857;&#51088;&#44032; &#49440;&#53469;&#54620; &#54028;&#51068;&#50640; &#54620;&#54644; &#51068;&#49884;&#51201; &#51217;&#44540;&#51060; &#51060;&#47364;&#51665;&#45768;&#45796;. &nbsp;</span></p><p class="c3"><span class="c0">EN: &nbsp;</span></p><p class="c3"><span class="c0">- The app does not request broad storage permissions. &nbsp;</span></p><p class="c3"><span class="c0">- File selection and sharing use the system&rsquo;s native document picker and share sheet, with temporary access granted only to files the user selects.</span></p><p class="c1"><span class="c0"></span></p><p class="c3"><span class="c4">6. &#51060;&#50857;&#51088; &#44428;&#47532; &#48143; &#47928;&#51032;&#52376; / User Rights &amp; Contact &nbsp;</span></p><p class="c3"><span class="c0">KR: &nbsp;</span></p><p class="c3"><span class="c0">- &#47928;&#51032;: designtrans@naver.com &nbsp;</span></p><p class="c3"><span class="c0">- &#47928;&#51032; &#49884; &#49888;&#49549;&#55176; &#45813;&#48320;&#46300;&#47532;&#44192;&#49845;&#45768;&#45796;. &nbsp;</span></p><p class="c3"><span class="c0">EN: &nbsp;</span></p><p class="c3"><span class="c0">- Contact: designtrans@naver.com &nbsp;</span></p><p class="c3"><span class="c0">- We will respond promptly to all inquiries.</span></p><p class="c1"><span class="c0"></span></p><p class="c3"><span class="c4">7. &#51221;&#52293; &#48320;&#44221; / Changes to This Policy &nbsp;</span></p><p class="c3"><span class="c0">KR: &#51221;&#52293;&#51060; &#48320;&#44221;&#46112; &#44221;&#50864;, &#48376; &#54168;&#51060;&#51648;&#51032; &ldquo;&#52572;&#51333; &#50629;&#45936;&#51060;&#53944;&rdquo; &#45216;&#51676;&#47484; &#49688;&#51221;&#54616;&#44256; &#50545; &#45236; &#47553;&#53356;&#47484; &#53685;&#54644; &#44256;&#51648;&#54633;&#45768;&#45796;. &nbsp;</span></p><p class="c3"><span class="c0">EN: If this policy changes, we will update the &ldquo;Last updated&rdquo; date and provide notice via the in-app link.</span></p><p class="c2"><span class="c0"></span></p><p class="c2"><span class="c0"></span></p></body></html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Fairway Pro 개인정보 처리방침 / Privacy Policy</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Noto Sans, Arial, sans-serif; line-height: 1.6; color: #222; margin: 0; }
+    main { max-width: 760px; margin: 40px auto; padding: 0 16px; }
+    h1 { font-size: 28px; margin: 0 0 8px; }
+    h2 { margin-top: 28px; }
+    .muted { color: #666; font-size: 14px; }
+    hr { border: 0; border-top: 1px solid #eee; margin: 20px 0; }
+    ul { padding-left: 20px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>개인정보 처리방침 / Privacy Policy</h1>
+    <div class="muted">최종 업데이트 / Last updated: 2025-08-09</div>
+    <hr />
+
+    <h2>1. 개요 / Overview</h2>
+    <p><strong>KR:</strong> Fairway Pro(이하 "앱")는 사용자의 개인정보를 수집·저장·공유하지 않습니다. 모든 데이터는 기기에만 저장되며, 외부 서버로 전송되지 않습니다.</p>
+    <p><strong>EN:</strong> Fairway Pro (“the App”) does not collect, store, or share personal information. All data remains on your device and is never transmitted to external servers.</p>
+
+    <h2>2. 수집하는 개인정보 / Data Collection</h2>
+    <p><strong>KR:</strong> 없음</p>
+    <p><strong>EN:</strong> None</p>
+
+    <h2>3. 데이터 사용 및 보관 / Data Usage & Storage</h2>
+    <ul>
+      <li><strong>KR:</strong> 라운드 기록, 설정, PDF, 백업 파일은 기기 내에만 저장됩니다. 서버 전송/저장은 없습니다. 앱 삭제 시 데이터도 삭제됩니다.</li>
+      <li><strong>EN:</strong> Round records, settings, PDFs, and backups are stored locally. No server transmission/storage. Deleting the app removes the data.</li>
+    </ul>
+
+    <h2>4. 제3자 공유 및 SDK / Third-Party Sharing & SDKs</h2>
+    <ul>
+      <li><strong>KR:</strong> 제3자 판매/대여/공유 없음. 광고·분석·추적 SDK 미사용.</li>
+      <li><strong>EN:</strong> No selling/renting/sharing with third parties. No ads/analytics/tracking SDKs.</li>
+    </ul>
+
+    <h2>5. 권한 / Permissions</h2>
+    <ul>
+      <li><strong>KR:</strong> 광범위 저장소 권한 미요청. 파일 선택/공유는 OS 문서 선택기·공유 시트를 사용하며, 사용자가 선택한 파일에 한해 일시적 접근.</li>
+      <li><strong>EN:</strong> No broad storage permissions. File pick/share relies on system dialogs with temporary access only to user-selected files.</li>
+    </ul>
+
+    <h2>6. 이용자 권리 및 문의처 / User Rights & Contact</h2>
+    <p><strong>KR:</strong> 문의: <a href="mailto:designtrans@naver.com">designtrans@naver.com</a></p>
+    <p><strong>EN:</strong> Contact: <a href="mailto:designtrans@naver.com">designtrans@naver.com</a></p>
+
+    <h2>7. 정책 변경 / Changes to This Policy</h2>
+    <p><strong>KR:</strong> 변경 시 본 페이지의 “최종 업데이트” 날짜를 갱신하고 앱 내 링크로 고지합니다.</p>
+    <p><strong>EN:</strong> We will update the “Last updated” date and notify via the in-app link when this policy changes.</p>
+  </main>
+</body>
+</html>
